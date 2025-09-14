@@ -1,0 +1,30 @@
+{
+  "animals": {
+    "real": [
+      "doggy.jpg",
+      "golden-retriever-tongue-out.jpg",
+      "good doggo.jpg",
+      "puppers.jpg"
+    ],
+    "ai": [
+      "ai bird 2.webp",
+      "ai bird.webp",
+      "ai cat.webp",
+      "ai moose.webp"
+    ]
+  },
+  "landscapes": {
+    "real": [
+      "Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg",
+      "images.jpg",
+      "mountain.jpg"
+    ],
+    "ai": [
+      "ai beach 2.webp",
+      "ai beach 3.webp",
+      "ai beach.webp",
+      "ai mountain 2.webp",
+      "ai mountain.webp"
+    ]
+  }
+}
